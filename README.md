@@ -1,2 +1,4 @@
 # Alpha
-Another Repository
+# This program prints Hello, world!
+
+print('Hello, world!')
